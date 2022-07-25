@@ -9,9 +9,7 @@ import './css/Calculator.css'
 const Calculator = () => {
   return (
     <Wrapper>
-      <Screen>
-
-      </Screen>
+      <Screen />
       <ButtonBox>
         <Button />
       </ButtonBox>
